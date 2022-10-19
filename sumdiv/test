@@ -1,0 +1,3 @@
+#!/bin/bash
+echo $1 | ./prog
+echo $1 | ./slow
